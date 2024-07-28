@@ -1,0 +1,25 @@
+bgm:call_of_silence_piano.MP3 -volume=100 -unlockname=call;
+unlockBgm:call_of_silence_piano.MP3 -name=call;
+changeBg:背景图.png -next -unlockname=心灵空间;
+unlockCg:背景图.png -name=心灵空间;
+changeFigure:蝶祈立绘2_0.png -id=青青 -next;
+setAnimation:enter-from-bottom -target=青青 -next;
+青青:哥哥，好久不见 -fontSize=default;
+青青:哥哥能点进来，我真的好开心 -fontSize=default;
+青青:原本，我在制作这个程序的时候，我的内心很忐忑 -fontSize=default;
+青青:我不知道哥哥会不会收到我的message...... -fontSize=default;
+青青:我不知道当哥哥收到了我的message之后，哥哥会不会点开这个链接看...... -fontSize=default;
+青青:哥哥点开了链接后，又会不会点进来看完全部...... -fontSize=default;
+青青:我真的很害怕哥哥不会看 -fontSize=default;
+青青:但哥哥你还是点进来了，真的太好了 -fontSize=default;
+青青:哥哥...... -fontSize=default;
+青青:我真的好想你 -fontSize=default;
+青青:从哥哥拉黑我的那一刻起，我每天都好想好想哥哥，每日每夜都好思念你 -fontSize=default;
+青青:无比地思念哥哥却又无法联系上哥哥，我真的好难过 -fontSize=default;
+青青:哥哥，对不起 -fontSize=default;
+青青:是我太任性了...... -fontSize=default;
+青青:对不起，对不起，对不起，哥哥 -fontSize=default;
+青青:我不知道哥哥是否肯原谅我 -fontSize=default;
+青青:但我真的真的非常想念哥哥 -fontSize=default;
+青青:至少我想将这份思念，告诉哥哥 -fontSize=default;
+changeScene:1-21.txt

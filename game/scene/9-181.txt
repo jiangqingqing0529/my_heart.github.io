@@ -1,0 +1,3 @@
+青青:哥哥不知道，哥哥不仅不知道我是真的担心哥哥 -fontSize=default;
+青青:哥哥还不知道我的其他心情 -fontSize=default;
+choose:什么心情:10-97.txt|你看，你又不信我说的:10-186.txt;

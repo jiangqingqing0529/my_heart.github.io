@@ -1,0 +1,7 @@
+Game_name:帕鲁少女青青的心声;
+Game_key:5abed0a82641a54;
+Title_img:高清1.png;
+Title_bgm:两个人总是.mp3 -vocal= 【钢琴版】If.mp3;
+Textbox_theme:imss;
+Description:这是送给哥哥的一段自述;
+Game_Logo:;

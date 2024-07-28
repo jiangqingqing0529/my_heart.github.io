@@ -1,0 +1,4 @@
+青青:为什么会这样？ -fontSize=default;
+青青:哥哥不是已经看了医生已经在治疗了吗？ -fontSize=default;
+青青:为什么还会加重？现在怎么办呀？ -fontSize=default;
+choose:没办法了，只能继续吃药看病再过段时间看看了:6-123.txt;

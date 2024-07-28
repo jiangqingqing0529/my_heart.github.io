@@ -1,0 +1,10 @@
+青青:吃药了也没有效果吗？ -fontSize=default;
+青青:那怎么办呀？ -fontSize=default;
+青青:我好担心哥哥的身体，我好怕哥哥会病倒 -fontSize=default;
+青青:我好担心哥哥总是忙碌一整天连饭都没能吃上 -fontSize=default;
+青青:也担心哥哥应酬需要喝很多很多的酒 -fontSize=default;
+青青:担心哥哥太劳累让身体情况恶化 -fontSize=default;
+青青:担心哥哥依旧压力很大，焦虑失眠，玉玉 -fontSize=default;
+青青:但是，我却没有能帮上哥哥的地方 -fontSize=default;
+青青:一想到这里，我就觉得难过 -fontSize=default;
+choose:没事，和你没关系:7-74.txt|嗯哼:7-80.txt;

@@ -1,0 +1,6 @@
+青青:就算是工作需要，哥哥也要适可而止呀 -fontSize=default;
+青青:哥哥之前就一直这样，总是这样毫无节制，不会点到为止 -fontSize=default;
+青青:怎么办，哥哥要怎么才能点到为止，才能够好起来 -fontSize=default;
+青青:我好想能帮到哥哥 -fontSize=default;
+青青:只要能让哥哥好起来，我好想能够做点什么...... -fontSize=default;
+choose:没事，问题不大:8-175.txt|和你没关系:8-194.txt;

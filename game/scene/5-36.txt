@@ -1,0 +1,2 @@
+青青:哥哥，我还想跟你说些话，可以吗？ -fontSize=default;
+choose:你说:最后的告白.txt|不可以:6-40.txt;

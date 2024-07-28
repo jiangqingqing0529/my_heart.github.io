@@ -1,0 +1,11 @@
+青青:是吗？但我却感受到如此 -fontSize=default;
+青青:一开始我也是觉得我误会哥哥了 -fontSize=default;
+青青:我想跟哥哥沟通，也尝试和哥哥沟通 -fontSize=default;
+青青:但是哥哥却没有时间跟我沟通 -fontSize=default;
+青青:甚至连回我一个表情，都舍不得 -fontSize=default;
+青青:哥哥不要说那些什么，“懂得都懂”，“不需要说就能懂我”，那些话 -fontSize=default;
+青青:哥哥不说我就是不懂 -fontSize=default;
+青青:连AI要学会一件事情，都要投喂他大量数据，有人告诉它 -fontSize=default;
+青青:何况我就只是个人...... -fontSize=default;
+青青:同样的，哥哥能懂我的心情嘛？ -fontSize=default;
+choose:什么心情？:11-99.txt|不懂:10-105.txt;

@@ -1,0 +1,3 @@
+青青:我知道跟哥哥没有关系，我只是想告诉哥哥 -fontSize=default;
+青青:告诉哥哥我的心情 -fontSize=default;
+choose:什么心情？:10-97.txt|你什么心情都跟我没关系:10-209.txt;

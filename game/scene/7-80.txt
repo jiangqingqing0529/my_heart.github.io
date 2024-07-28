@@ -1,0 +1,5 @@
+青青:哥哥...... -fontSize=default;
+青青:我好希望自己可以能帮得上哥哥..... -fontSize=default;
+青青:但我又能做什么呢，又好像什么都做不了...... -fontSize=default;
+青青:哥哥.....哥哥...... -fontSize=default;
+choose:嗯哼:5-36.txt|你什么都做不了:8-87.txt;

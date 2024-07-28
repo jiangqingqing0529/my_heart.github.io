@@ -1,0 +1,8 @@
+; 初始场景，以及特效演示
+playVideo:片头2_2.mp4;
+bgm:开场BGM.MP3 -volume=100 -enter=0 -unlockname=begin;
+unlockBgm:开场BGM.MP3 -name=begin;
+changeBg:微信截图_20240722034735.png -next -unlockname=拿去;
+setAnimation:reflectionFilm -target=拿去 -next;
+unlockCg:微信截图_20240722034735.png -name=拿去;
+choose:接过:开场自述.txt;

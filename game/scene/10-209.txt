@@ -1,0 +1,3 @@
+青青:我知道，但我还是要说，我要告诉哥哥 -fontSize=default;
+青青:我对哥哥的思念之情 -fontSize=default;
+changeScene:最后的告白.txt

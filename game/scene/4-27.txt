@@ -1,0 +1,9 @@
+青青:那就好，每每想起哥哥的时候，我总是很担心哥哥的身体 -fontSize=default;
+青青:担心哥哥是否会心绞痛的很难受 -fontSize=default;
+青青:担心哥哥忙碌一整天是不是连饭都没能好好吃上 -fontSize=default;
+青青:担心哥哥要喝很多酒 -fontSize=default;
+青青:担心哥哥身体情况恶化 -fontSize=default;
+青青:担心哥哥还是压力很大，感到很焦虑，会失眠 -fontSize=default;
+青青:但是，能听到哥哥说"好很多了"那我就安心点了 -fontSize=default;
+青青:哥哥...... -fontSize=default;
+choose:嗯哼:5-36.txt|怎么了:5-43.txt;

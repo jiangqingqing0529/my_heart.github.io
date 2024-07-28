@@ -1,0 +1,5 @@
+青青:不！我不喜欢哥哥说这种话 -fontSize=default;
+青青:在我这里，哥哥可以有事，哥哥可以和我有关系 -fontSize=default;
+青青:我多希望哥哥能跟我坦诚相待 -fontSize=default;
+青青:哥哥...... -fontSize=default;
+choose:嗯哼:5-36.txt|怎么了:5-43.txt;

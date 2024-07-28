@@ -1,0 +1,9 @@
+青青:为什么不吃药呀，之前不是说要吃中药调养几个月吗？ -fontSize=default;
+青青:哥哥不可以不吃药调养呀 -fontSize=default;
+青青:本身哥哥就忙碌，又喝酒抽烟的，还经常吃不上饭 -fontSize=default;
+青青:本身就在透支身体了，现在身体出问题了，哥哥要好好调养呀 -fontSize=default;
+青青:一想到哥哥身体不好，又很忙碌，压力又大，还需要喝很多酒 -fontSize=default;
+青青:我就很担心哥哥...... -fontSize=default;
+青青:好想能够帮的上哥哥，但我好像没有能帮的上哥哥的地方 -fontSize=default;
+青青:一想到这里，我就觉得难过 -fontSize=default;
+choose:没事，和你没关系:7-74.txt|嗯哼:7-80.txt;

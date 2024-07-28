@@ -1,0 +1,5 @@
+青青:但我想和哥哥有关系，哥哥不要再说这种话了...... -fontSize=default;
+青青:我不想，不想和哥哥没关系 -fontSize=default;
+青青:我是真的想为哥哥做点什么 -fontSize=default;
+青青:这份心情是真的...... -fontSize=default;
+choose:我知道:9-181.txt|嗯哼:9-191.txt|跟我有什么关系？:9-204.txt;

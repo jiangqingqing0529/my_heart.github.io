@@ -1,0 +1,6 @@
+青青:我想跟哥哥沟通 -fontSize=default;
+青青:但是哥哥却没有时间跟我沟通 -fontSize=default;
+青青:甚至连回我一个表情，都没空...... -fontSize=default;
+青青:想到这里，又是来另外一种难过...... -fontSize=default;
+青青:哥哥知道我的心情吗？ -fontSize=default;
+choose:什么心情？:11-99.txt|不懂:10-105.txt;

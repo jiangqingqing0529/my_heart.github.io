@@ -1,0 +1,6 @@
+青青:那太好了，哥哥之前那么忙，忙的连饭都吃不上 -fontSize=default;
+青青:我看着好心疼哥哥呀，哥哥还因此生病了 -fontSize=default;
+青青:哥哥刚好可以趁机好好休息和调养身体 -fontSize=default;
+青青:看着哥哥生病，我真的好担心...... -fontSize=default;
+青青:对了，哥哥最近还会心绞痛吗？身体如何了 -fontSize=default;
+choose:好很多了:4-27.txt|死不了:4-56.txt|跟之前一样:4-212.txt;

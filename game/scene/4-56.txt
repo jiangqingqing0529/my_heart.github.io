@@ -1,0 +1,4 @@
+青青:哥哥说的这是什么话呀 -fontSize=default;
+青青:我是真的很担心哥哥的身体 -fontSize=default;
+青青:哥哥最近心脏还是疼得厉害吗？ -fontSize=default;
+choose:不怎么疼了:4-27.txt|还是经常疼:5-62.txt|比之前疼的更厉害了:5-119.txt;

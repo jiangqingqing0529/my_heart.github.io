@@ -1,0 +1,6 @@
+青青:哥哥又说这种话了，哥哥不用一直强撑 -fontSize=default;
+青青:至少，在我面前，不用说如此的话 -fontSize=default;
+青青:我知道哥哥有很多烦恼的事情，我也想听哥哥说 -fontSize=default;
+青青:我想看到真实的哥哥 -fontSize=default;
+青青:哥哥，我是真的很担心哥哥，也真的很想能帮到哥哥 -fontSize=default;
+choose:我知道:9-181.txt|嗯哼:9-191.txt;

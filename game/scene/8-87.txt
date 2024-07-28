@@ -1,0 +1,5 @@
+青青:我知道，但我还是想，想为哥哥做点什么 -fontSize=default;
+青青:即使可能没什么用，万一有用呢 -fontSize=default;
+青青:是真的，哥哥，我真的很担心你 -fontSize=default;
+青青:我想解决问题..... -fontSize=default;
+choose:嗯哼:5-36.txt|我知道:9-95.txt;

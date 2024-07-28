@@ -1,0 +1,4 @@
+青青:我不是不信哥哥的话，但哥哥给我的感觉就是不知道呀 -fontSize=default;
+青青:但没关系，无论哥哥知不知道，我都要这里正式的告诉哥哥 -fontSize=default;
+青青:我的心情，我对哥哥的思念之情 -fontSize=default;
+changeScene:最后的告白.txt
